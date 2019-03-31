@@ -1,0 +1,11 @@
+2019-03-31 13:57:43.124  INFO 7256 --- [main] com.example.study.StudyApplication       : Starting StudyApplication on XB-20171109CFVL with PID 7256 (D:\java\study\target\classes started by Administrator in D:\java\study)
+2019-03-31 13:57:43.200  INFO 7256 --- [main] com.example.study.StudyApplication       : No active profile set, falling back to default profiles: default
+2019-03-31 13:57:48.684  INFO 7256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-31 13:57:48.752  INFO 7256 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-31 13:57:48.753  INFO 7256 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-31 13:57:48.771  INFO 7256 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files (x86)\GitExtensions\;d:\Program Files\Git\cmd;.]
+2019-03-31 13:57:49.044  INFO 7256 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-31 13:57:49.045  INFO 7256 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4986 ms
+2019-03-31 13:57:49.551  INFO 7256 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-31 13:57:50.181  INFO 7256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-31 13:57:50.185  INFO 7256 --- [main] com.example.study.StudyApplication       : Started StudyApplication in 9.717 seconds (JVM running for 14.386)

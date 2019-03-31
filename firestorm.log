@@ -1,0 +1,20 @@
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.config.AbstractConfig -  [DUBBO] Run shutdown hook now., dubbo version: 2.4.10, current host: 127.0.0.1
+INFO DubboShutdownHook com.alibaba.dubbo.registry.support.AbstractRegistryFactory -  [DUBBO] Close all registries [], dubbo version: 2.4.10, current host: 127.0.0.1
+INFO main com.alibaba.dubbo.common.logger.LoggerFactory - using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
